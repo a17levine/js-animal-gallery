@@ -28,10 +28,10 @@
   line-height: 1.2em;
   position: relative;
   padding-left: 50px;
-  background: #D26;
+  background: green;
 }
 
-.hero-masonry .button:hover { background: #A2C; }
+.hero-masonry .button:hover { background: green; }
 
 .hero-masonry .button .icon {
   font-size: 32px;
@@ -85,14 +85,14 @@
 .hero-item.has-example a {
   font-size: 13px;
   font-weight: bold;
-  background: #D26;
+  background: green;
   color: white;
   display: block;
   border-radius: 10px 10px 8px 8px;
 }
 
 .hero-item.has-example a:hover {
-  background: #A2C;
+  background: #FFFF00;
   color: white;
 }
 
